@@ -1,2 +1,0 @@
-# LamboInjector
-Telegram bot 
